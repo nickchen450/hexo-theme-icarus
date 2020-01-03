@@ -53,10 +53,10 @@ footer:
 # Article display settings
 article:
     # Code highlight settings
-    highlight: androidstudio
+    highlight: 
         # Code highlight themes
         # https://github.com/highlightjs/highlight.js/tree/master/src/styles
-        theme: atom-one-light
+        theme: androidstudio
         # Show code copying button
         clipboard: true
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
